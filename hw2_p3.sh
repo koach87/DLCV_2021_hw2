@@ -1,0 +1,1 @@
+python3 p3.py --img_path $1 --traget_name $2 --csv_path $3

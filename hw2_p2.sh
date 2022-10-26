@@ -1,0 +1,1 @@
+python3 p2.py --output_path $1
